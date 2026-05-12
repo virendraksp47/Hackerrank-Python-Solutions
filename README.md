@@ -1,41 +1,41 @@
-HackerRank Python Solutions
+# HackerRank Python Solutions 🐍
 
-Welcome to my HackerRank Python Solutions repository! 🐍
-This repository contains my solutions to various HackerRank Python programming challenges.
+This repository contains my solutions to Python programming challenges from HackerRank.
 
-About
-
+## 📌 About
 The purpose of this repository is to:
 
-Practice Python programming
-Improve problem-solving skills
-Prepare for coding interviews
-Track coding progress and consistency
-Contents
+- Practice Python programming
+- Improve problem-solving skills
+- Prepare for coding interviews
+- Track my learning journey
 
-The repository includes solutions for:
+## 📂 Topics Covered
+- Introduction
+- Basic Data Types
+- Strings
+- Sets
+- Collections
+- Itertools
+- Math
+- Built-ins
+- Python Functionals
+- Regex and Parsing
+- XML
+- Closures and Decorators
+- NumPy
 
-Basic Python Problems
-Strings
-Lists
-Sets
-Dictionaries
-Loops & Functions
-Itertools
-Collections
-NumPy
-Regex and Parsing
-Python OOP
-Built-ins
-Error Handling
-Features
-Clean and readable Python code
-Well-organized problem structure
-Beginner-friendly solutions
-Regularly updated with new problems
-Note
+## 🚀 Features
+- Clean and readable Python code
+- Organized solutions by topic
+- Beginner-friendly approaches
+- Regular updates with new problems
 
-These solutions are uploaded for educational purposes and personal practice.
-Try solving the problems on your own before checking the solutions.
+## 📖 Note
+These solutions are uploaded for learning and educational purposes only.  
+Try solving the problems yourself before referring to the solutions.
 
-⭐ Feel free to explore and learn from the code!
+## 🔗 Platform
+Problems are solved from HackerRank.
+
+⭐ If you find this repository helpful, feel free to star it!
